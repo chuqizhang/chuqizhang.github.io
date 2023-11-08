@@ -45,6 +45,7 @@ sass:
   style: :compressed
 plugins:
   - chuqizhang.github.io
+  
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
